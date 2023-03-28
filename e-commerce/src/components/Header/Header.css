@@ -1,0 +1,7 @@
+.header{
+    height: 80px;
+}
+
+.hov a:hover{
+    color: orange;
+}

@@ -1,0 +1,23 @@
+.product img{
+    width: 286px;
+    height: 286px;
+    border-radius: 10px;
+}
+
+.product{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    height: 510px;
+    width: 300px;
+    border: 2px solid saddlebrown;
+    border-radius: 10px;
+    position: relative;
+}
+
+.btn-cart{
+    background-color: burlywood;
+    width: 100%;
+    position: absolute;
+    border-radius: 5px;
+    bottom:5px ;
+}
